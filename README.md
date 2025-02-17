@@ -16,7 +16,7 @@ A powerful automation tool to upload multiple YouTube Shorts from various source
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo/auto-upload-youtube-shorts.git
+   git clone https://github.com/Rivoldy/Auto-Upload-YouTube-Shorts-from-TikTok-Instagram-Facebook-Local-Files-Multi-Video-Support.git
    cd auto-upload-youtube-shorts
    
 2. Install dependencies:
