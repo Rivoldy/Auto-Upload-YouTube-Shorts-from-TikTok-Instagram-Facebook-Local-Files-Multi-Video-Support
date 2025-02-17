@@ -1,0 +1,8 @@
+ttkthemes
+Pillow
+google-auth-oauthlib
+google-auth
+google-api-python-client
+yt-dlp
+moviepy==1.0.3
+sv-ttk
